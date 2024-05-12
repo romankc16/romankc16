@@ -1,9 +1,9 @@
 # Hello! there  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 
-[![Visit My Website](https://img.shields.io/badge/Ram%20Mijar-Visit%20Website-blue)](https://www.rammijar.com.np/)
+[![Visit My Website](https://img.shields.io/badge/Roman%20KC-Visit%20Website-blue)](https://www.romankc.com/)
 
-I'm [Ram Mijar](https://www.rammijar.com.np/), a passionate student based in Nepal with a keen interest in coding and technology.
+I'm [Roman KC](https://www.romankc.com/), a passionate student based in Nepal with a keen interest in coding and technology.
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
@@ -21,16 +21,15 @@ I'm [Ram Mijar](https://www.rammijar.com.np/), a passionate student based in Nep
 
 
 ## Reach me at 📬
-[![Email](https://img.shields.io/badge/-📬%20Email-%230077B5?style=flat&logo=gmail&logoColor=white)](mailto:admin@rammijar.com.np)
+[![Email](https://img.shields.io/badge/-📬%20Email-%230077B5?style=flat&logo=gmail&logoColor=white)](mailto:romankc652gmail.com)
 
 
 
 ## Connect with Me:
-[![CodePen Profile](https://img.shields.io/badge/CodePen-Profile-blue)](https://codepen.io/ram-mijar)
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ramijar2020)
-[![Facebook Profile](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/ram.mijar.165?mibextid=zbwkwl)
-[![Instagram Profile](https://img.shields.io/badge/Instagram-Profile-blue)](https://instagram.com/ramijar2020?igshid=ogq5zdc2odk2za==)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://youtube.com/@ramijar2020?si=yFtvYjcac-KonrnH)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/lokendra-k-c-b18019260)
+[![Facebook Profile](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/romankc)
+[![Instagram Profile](https://img.shields.io/badge/Instagram-Profile-blue)](https://instagram.com/romankc22)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://youtube.com/@romankc)
 
 ## Support ☕
 [![Buy Me a Coffee](https://img.shields.io/badge/-☕%20Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/ramijar2020)
